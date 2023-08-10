@@ -1,3 +1,5 @@
+//based on code by Rui Santos from randomnerdtutorials
+
 #include <WiFi.h>
 
 const char* ssid     = "*************";
